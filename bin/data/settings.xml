@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<LIDAR_Menu>
+	<Lidar_range>3000</Lidar_range>
+	<Lidar_magnification>0.3</Lidar_magnification>
+	<LifeSpan>100</LifeSpan>
+</LIDAR_Menu>
